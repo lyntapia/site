@@ -5,11 +5,9 @@
 }
 nav{
    background-color:#010326;
-   display:flex;
 }
 .logo{
-   padding: 20px;
-   
+   padding: 20px;   
 }
 nav ul li{
    padding: 20px;
