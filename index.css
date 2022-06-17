@@ -32,10 +32,10 @@ ul {
 }
 .site-header-right li{
   display: inline;
-  background-color:#F28705;
 }
 .site-header-right li a {
   text-decoration: none;
   margin-left: 20px;
   color: white;
+  background-color:#F28705;
 }
