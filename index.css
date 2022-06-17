@@ -6,6 +6,7 @@
 }
 .logo{
    padding: 20px;
+   display:inline;
 }
 nav ul li{
    padding: 30px;
@@ -13,9 +14,9 @@ nav ul li{
    color:#F2F2F2;
    background-color:#F28705;
    text-decoration:none;
+   display:inline;
 }
 .container{
    background-color:#010326;
-   display:inline;
 }
 
