@@ -11,13 +11,11 @@ nav{
    padding: 20px;
    border: 1px solid red;
    width: 80px;
-   background-color:#010326;
 }
 nav ul li{
    padding: 20px;
    text-transform: uppercase;
    margin-right: 20px;
-   background-color:#010326;
 }
 .block{
    display: inline-block;
