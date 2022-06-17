@@ -28,7 +28,6 @@ body {
 }
 .site-header-right li{
   display: inline;
-   margin-top:50px;
 }
 .site-header-right li a {
   text-decoration: none;
@@ -38,4 +37,5 @@ body {
   padding: 20px;
   border: 1px solid #F28705;
   border-radius: 15px 50px;
+  margin-top:50px;
 }
