@@ -8,10 +8,6 @@ body {
   width: 100%;
   text-rendering: optimizeLegibility;
 }
-ul {
-  padding: 0;
-  margin: 0;
-}
 /* Site Navigation */
 .site-navigation {
   margin: 0 auto;
