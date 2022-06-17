@@ -10,5 +10,8 @@
 nav ul li{
    padding: 10px;
    text-transform: uppercase;
+   color:#F2F2F2;
+   background-color:#F28705;
+   text-decoration:none;
 }
 
