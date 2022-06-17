@@ -28,7 +28,7 @@ ul {
 .site-header-right {
   display: inline-block;
   float: right;
-  margin-top: 25px;
+  margin: auto 20px;
 }
 .site-header-right li{
   display: inline;
