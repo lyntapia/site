@@ -5,13 +5,13 @@
 }
 nav{
    background-color:#010326;
-   height: 70px;
+   height: 130px;
 }
 .block{
    display: inline-block;
    margin: auto 20px;
    border: 2px solid white;
-   height: 70px;
+   height: 130px;
 }
 nav li{
    display: inline-block;
