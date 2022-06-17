@@ -7,18 +7,17 @@ nav{
    background-color:#010326;
 }
 nav ul li{
-   padding: 20px;
    text-transform: uppercase;
-   margin: 0 20px;
    display: inline-block;
 }
 .block{
    display: inline-block;
-   margin: auto 30px;
+   margin: auto 20px;
    border: 2px solid white;
 }
 nav ul li a{
    color:#F2F2F2;
    text-decoration:none;
+   padding:20px;
 }
 
