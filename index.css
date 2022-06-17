@@ -11,15 +11,16 @@ nav{
    padding: 20px;
    border: 1px solid red;
    width: 80px;
-   display: inline-block;
    background-color:#010326;
 }
 nav ul li{
    padding: 20px;
    text-transform: uppercase;
-   display: inline-block;
    margin-right: 20px;
    background-color:#010326;
+}
+.block{
+   display: inline-block;
 }
 nav ul li a{
    color:#F2F2F2;
