@@ -15,6 +15,7 @@ nav{
 }
 nav li{
    display: inline-block;
+   text-align: center;
 }
 nav a{
    color:#F2F2F2;
