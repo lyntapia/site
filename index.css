@@ -6,7 +6,7 @@
 }
 nav{
    background-color:#010326;
-   display: flex;
+   display: inline;
 }
 .logo{
    padding: 20px;
