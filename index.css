@@ -12,12 +12,14 @@ nav{
    border: 1px solid red;
    width: 80px;
    display: inline;
+   background-color:#010326;
 }
 nav ul li{
    padding: 20px;
    text-transform: uppercase;
    display: inline;
    margin-right: 20px;
+   background-color:#010326;
 }
 nav ul li a{
    color:#F2F2F2;
