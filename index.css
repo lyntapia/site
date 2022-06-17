@@ -1,12 +1,11 @@
 *{
-   background-color: #F28705;
    padding: 0px;
    margin:0px;
    box-sizing: border-box;
 }
 nav{
    background-color:#010326;
-   
+   display:flex;
 }
 .logo{
    padding: 20px;
@@ -15,9 +14,10 @@ nav{
    display: inline;
 }
 nav ul li{
-   padding: 10px;
+   padding: 20px;
    text-transform: uppercase;
    display: inline;
+   margin-right: 20px;
 }
 nav ul li a{
    color:#F2F2F2;
