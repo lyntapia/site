@@ -36,6 +36,7 @@ ul {
 .site-header-right li a {
   text-decoration: none;
   margin-left: 20px;
-  color: white;
+  color: #734002;
   background-color:#F28705;
+  padding: 20px;
 }
