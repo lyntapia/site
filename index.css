@@ -14,9 +14,9 @@ nav{
 nav ul li{
    padding: 10px;
    text-transform: uppercase;
+}
+nav ul li a{
    color:#F2F2F2;
-   background-color:#F28705;
    text-decoration:none;
 }
-
 
