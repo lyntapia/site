@@ -9,7 +9,6 @@ nav{
 }
 .logo{
    padding: 20px;
-   border: 1px solid red;
    width: 80px;
 }
 nav ul li{
@@ -19,6 +18,7 @@ nav ul li{
 }
 .block{
    display: inline-block;
+   border: 1px solid white;
 }
 nav ul li a{
    color:#F2F2F2;
