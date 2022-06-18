@@ -25,6 +25,7 @@ body {
   display: inline-block;
   float: right;
   margin: auto 20px;
+  margin-top:80px;
 }
 .site-header-right li{
   display: inline;
@@ -37,5 +38,5 @@ body {
   padding: 20px;
   border: 1px solid #F28705;
   border-radius: 15px 50px;
-  margin-top:50px;
+  
 }
