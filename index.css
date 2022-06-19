@@ -42,4 +42,7 @@ body {
 }
 .main h2{
    background-image: url("sistema de oxigenacion.jpg");
+   background-size: cover; 
+	background-position: center;
+   width:100%;
 }
