@@ -40,9 +40,10 @@ body {
   border-radius: 15px 50px;
   
 }
-.main h2{
+.bienvenida{
    background-image: url("sistema de oxigenacion.jpg");
    background-size: cover; 
    background-position: center;
    width:100%;
 }
+
