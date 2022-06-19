@@ -47,8 +47,8 @@ body {
    width:100%;
 }
 .bienvenida h1{
-   color: #F28705; 
-	background-color: rgba(0,0,0,0.3); 
+   	color: #F28705; 
+	/*background-color: rgba(0,0,0,0.3);*/ 
 	padding: 2em 1em; 
 	font-family: sans-serif; 
 }
