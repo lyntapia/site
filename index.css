@@ -1,57 +1,102 @@
 *{
-   padding: 0px;
-   margin:0px;
-   box-sizing: border-box;
-}
-
-body {
-  overflow-x: hidden;
-  width: 100%;
-  text-rendering: optimizeLegibility;
-}
-/* Site Navigation */
-.site-navigation {
-  margin: 0 auto;
-  /*max-width: 1280px;*/
-  padding: 30px 1em;
-  background-color:#010326;
-}
-.site-header-left {
-  display: inline-block;
-}
-.site-header-left li {
-  line-height: 0;
-}
-.site-header-right {
-  display: inline-block;
-  float: right;
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+ }
+ 
+ body {
+   overflow-x: hidden;
+   width: 100%;
+   text-rendering: optimizeLegibility;
+ }
+ /* Site Navigation */
+ .site-navigation {
+   margin: 0 auto;
+   /*max-width: 1280px;*/
+   padding: 30px 1em;
+   background-color:#010326;
+ }
+ .site-header-left {
+   display: inline-block;
+ }
+ .site-header-left li {
+   line-height: 0;
+   margin-left: 30px;
+   margin-top: 20px;
+ }
+ .site-header-right {
+   /*display: inline-block;*/
+   float: right;
+   margin: auto 20px;
+   margin-top:30px;
+ }
+ .site-header-right li{
+   display: inline;
+ }
+ .site-header-right li a {
+   text-decoration: none;
+   margin-left: 20px;
+   color: #F28705;
+   /*background-color:#F28705;*/
+   padding: 20px;
+   border: 1px solid #F28705;
+   /*border-radius: 15px 50px;*/
+   border-radius: 15px;
+   display:inline-block;
+   width: 180px;
+   text-align: center;
+   
+ }
+ .bienvenida{
+    background-image: url("sistema de oxigenacion.jpg");
+    background-position: center;
+    width:100%;
+    height: 383px;
+ }
+ .bienvenida h1{
+  color: #F2F2F2; 
+  background-color: rgba(1, 3, 38,0.3);
+  padding: 30px;
+  font-family: 'Anton', sans-serif;
+  text-align:center;
+  font-size:48px;
+  letter-spacing: 1px;
+ }
+ .bienvenida h1 span{
+   color:#F28705;
+ }
+ .trabajos h2{
+   background-color: #F28705;
+   color:#0D0D0D;
+   padding-top:30px;
+   text-align: center;
+   padding-bottom: 30px;
+   font-family: 'Tiro Devanagari Marathi', serif;
+   font-size: 30px;
+ }
+ .intro{
+   background-color: #0D0D0D;
+   padding: 30px;
+   display:flex;
+  justify-content: center;
+ }
+ .boxdet{
+  border: 1px solid #734002;
+  padding: 30px;
+  color:#F28705;
   margin: auto 20px;
-  margin-top:50px;
-}
-.site-header-right li{
-  display: inline;
-}
-.site-header-right li a {
-  text-decoration: none;
-  margin-left: 20px;
-  color: #010326;
-  background-color:#F28705;
-  padding: 20px;
-  border: 1px solid #F28705;
-  border-radius: 15px 50px;
-  
-}
-.bienvenida{
-   background-image: url("sistema de oxigenacion.jpg");
-   background-position: center;
-   width:100%;
-   height: 383px;
-}
-.bienvenida h1{
-   	color: white; 
-	background-color: rgba(1, 3, 38,0.3);
-	padding: 30px;
-	font-family: 'Anton', sans-serif;
-	text-align:center;
-	font-size:48px;
-}
+  line-height:3em;
+  width:800px;
+  height: 450px;
+  text-align: justify;
+  letter-spacing: 0.15em;
+ }
+ .boxdet span{
+   color:#F2F2F2;
+   font-weight: bold;
+ }
+ .icono{
+   width: 70px;
+   height: 70pxpx;
+  margin-left: 45%;
+ }
