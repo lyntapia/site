@@ -3,6 +3,11 @@
    margin:0px;
    box-sizing: border-box;
 }
+@font-face{
+	font-family:'FuenteApertura';
+	src:url('harvats-webfont.woff2') format('woff2'), url('harvats-webfont.woff') format('woff'), 
+		url('HARVATS.ttf') format('truetype');
+}
 body {
   overflow-x: hidden;
   width: 100%;
