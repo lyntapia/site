@@ -91,9 +91,7 @@
    color:#F2F2F2;
    font-weight: bold;
  }
-.boxdet2{
-    width:50%;
-}
+
  .icono{
    width: 70px;
    height: 70pxpx;
@@ -102,7 +100,12 @@
  #parra2{
    margin-top:30px;
  }
-
+.boxdet2{
+    width:50%;
+}
+.boxdet2 img {
+    width: fit-content;
+}
 /*
 .mensaje{
   padding-top: 40px;
