@@ -73,11 +73,12 @@
    background-color: #0D0D0D;
    padding: 30px;
    display:flex;
-  justify-content: space-between;
+  /*justify-content: space-between;*/
    align-items:stretch;
      /*width:100%;*/
    flex-wrap: wrap;
    flex-direction: row;
+     justify-content:center;
  }
  .boxdet{
   border: 1px solid #734002;
@@ -89,7 +90,7 @@
   height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
-  width: 30%;
+  width: 500px;
  }
  .boxdet span{
    color:#F2F2F2;
@@ -106,10 +107,10 @@
  }
 .boxdet2{
     padding: 30px;
-    width: 30%;
+    /*width: 30%;*/
 }
 .boxdet2 img {
-    width: 300px;
+    width: 400px;
     height: auto;
 }
 /*
