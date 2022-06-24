@@ -89,7 +89,7 @@
   height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
-  width: 3rem;
+  width: 30%;
  }
  .boxdet span{
    color:#F2F2F2;
@@ -106,7 +106,7 @@
  }
 .boxdet2{
     padding: 30px;
-    width: 3rem;
+    width: 30%;
 }
 .boxdet2 img {
     width: 300px;
