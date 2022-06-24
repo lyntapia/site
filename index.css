@@ -73,7 +73,7 @@
    background-color: #0D0D0D;
    padding: 30px;
    display:flex;
-  justify-content: space-around;
+  justify-content: space-between;
    align-items:stretch;
      width:100%;
  }
@@ -84,7 +84,7 @@
   margin: 30px 60px;
   line-height:3em;
   width: 50%;
-  height: 100%;
+  height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
  }
