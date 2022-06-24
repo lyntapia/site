@@ -75,6 +75,7 @@
    display:flex;
   justify-content: space-around;
    align-items:stretch;
+     width:100%;
  }
  .boxdet{
   border: 1px solid #734002;
@@ -101,10 +102,13 @@
    margin-top:30px;
  }
 .boxdet2{
-    width:50%;
+    flex-grow: 2;
+    width: 50%;
+    max-width: 50%;
 }
 .boxdet2 img {
-    width: fit-content;
+    width: 100%;
+    height: auto;
 }
 /*
 .mensaje{
