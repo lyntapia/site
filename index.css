@@ -74,6 +74,7 @@
    padding: 30px;
    display:flex;
   justify-content: space-around;
+   align-items:stretch;
  }
  .boxdet{
   border: 1px solid #734002;
@@ -81,7 +82,7 @@
   color:#F28705;
   margin: 30px 60px;
   line-height:3em;
-  width: 100%;
+  width: 50%;
   height: 100%;
   text-align: justify;
   letter-spacing: 0.15em;
@@ -90,6 +91,9 @@
    color:#F2F2F2;
    font-weight: bold;
  }
+.boxdet2{
+    width:50%;
+}
  .icono{
    width: 70px;
    height: 70pxpx;
