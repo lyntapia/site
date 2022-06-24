@@ -71,7 +71,7 @@
  }
  .intro{
    background-color: #0D0D0D;
-   padding: 30px;
+   padding: 20px;
    display:flex;
   justify-content: space-between;
    align-items:stretch;
@@ -79,7 +79,7 @@
  }
  .boxdet{
   border: 1px solid #734002;
-  padding: 40px;
+  padding: 10px;
   color:#F28705;
   margin: 30px 60px;
   line-height:3em;
