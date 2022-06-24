@@ -105,6 +105,7 @@
     flex-grow: 2;
     width: 50%;
     max-width: 50%;
+    padding: 10px;
 }
 .boxdet2 img {
     width: 100%;
