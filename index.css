@@ -73,7 +73,7 @@
    background-color: #0D0D0D;
    padding: 30px;
    display:flex;
-  justify-content: center;
+  justify-content: space-around;
  }
  .boxdet{
   border: 1px solid #734002;
