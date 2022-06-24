@@ -83,7 +83,7 @@
   color:#F28705;
   margin: 30px 60px;
   line-height:3em;
-  width: 50%;
+  /*width: 50%;*/
   height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
@@ -103,8 +103,8 @@
  }
 .boxdet2{
     flex-grow: 2;
-    width: 50%;
-    max-width: 50%;
+    /*width: 50%;*/
+    /*max-width: 50%;*/
     padding: 10px;
 }
 .boxdet2 img {
