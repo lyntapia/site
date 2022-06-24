@@ -75,7 +75,7 @@
    display:flex;
   justify-content: space-between;
    align-items:stretch;
-     width:100%;
+     /*width:100%;*/
  }
  .boxdet{
   border: 1px solid #734002;
