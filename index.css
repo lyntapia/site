@@ -84,7 +84,7 @@
   color:#F28705;
   /*margin: 30px 60px;*/
   line-height:3em;
-  /*width: 50%;*/
+  width: 30%;
   height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
@@ -105,7 +105,7 @@
  }
 .boxdet2{
     
-    /*width: 50%;*/
+    width: 30%;
     /*max-width: 50%;*/
     padding: 30px;
 }
