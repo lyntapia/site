@@ -94,13 +94,13 @@
   letter-spacing: 0.15em;
   width: 400px;
      flex-grow: 1;
-     margin:20px:
+     margin:20px;
  }
  .boxdet span{
    color:#F2F2F2;
    font-weight: bold;
  }
-.boxdet ul{
+.boxdet ul,h2{
     list-style-type:none;
     text-align:center;
 }
