@@ -99,7 +99,10 @@
    color:#F2F2F2;
    font-weight: bold;
  }
-
+.boxdet ul{
+    list-style-type:none;
+    text-align:center;
+}
  .icono{
    width: 70px;
    height: 70pxpx;
