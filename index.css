@@ -114,7 +114,7 @@
   margin-left: 45%;
  }
  #parra2{
-   margin-top:30px;
+   /*margin-top:30px;*/
  }
 /*.boxdet2{
     padding: 30px;
@@ -141,20 +141,24 @@
 }*/
 .peces{
    background-image: url("camionpeces.jpg"); 
-   background-color:rgba(242, 135, 5, 0.5);
-    padding:30px;
+   padding: 50px;
+   height: 500px;
 }
 .boxdet2{
-  border: 1px solid #734002;
-  padding: 30px;
-  color:#F28705;
+  border: 1px solid #0D0D0D;
+  padding: 20px;
+  color: #0D0D0D;
   /*margin: 30px 60px;*/
-  line-height:3em;
+  line-height: 2em;
   /*width: 30%;*/
-  height: 300px;
-  text-align: justify;
-  letter-spacing: 0.15em;
-  width: 100%;
-  flex-grow: 1;
+  height: 150px;
+    text-align: justify;
+    letter-spacing: 0.15em;
+    width: 100%;
+    flex-grow: 1;
+    background-color: rgba(242, 135, 5, 0.4);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
      
  }
