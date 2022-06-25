@@ -87,12 +87,12 @@
   padding: 30px;
   color:#F28705;
   /*margin: 30px 60px;*/
-  line-height:3em;
+  line-height:1.8em;
   /*width: 30%;*/
   height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
-  width: 400px;
+  width: 500px;
      flex-grow: 1;
      margin:20px;
  }
@@ -149,11 +149,11 @@
   padding: 20px;
   color: #0D0D0D;
   /*margin: 30px 60px;*/
-  line-height: 2em;
+  line-height: 1.7em;
   /*width: 30%;*/
-  height: 150px;
+  height: 120px;
     text-align: justify;
-    letter-spacing: 0.15em;
+    letter-spacing: 0.1em;
     width: 100%;
     flex-grow: 1;
     background-color: rgba(242, 135, 5, 0.4);
