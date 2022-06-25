@@ -100,8 +100,12 @@
    color:#F2F2F2;
    font-weight: bold;
  }
-.boxdet ul,h2{
+.boxdet ul{
     list-style-type:none;
+    text-align:center;
+}
+.boxdet h2{
+    
     text-align:center;
 }
  .icono{
