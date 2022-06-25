@@ -140,5 +140,6 @@
   
 }*/
 .peces{
-    
+   background-image: url("camionpeces.jpg"); 
+   background-color:rgba(242, 135, 5, 0.5);
 }
