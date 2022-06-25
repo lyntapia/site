@@ -143,3 +143,17 @@
    background-image: url("camionpeces.jpg"); 
    background-color:rgba(242, 135, 5, 0.5);
 }
+.boxdet2{
+  border: 1px solid #734002;
+  padding: 30px;
+  color:#F28705;
+  /*margin: 30px 60px;*/
+  line-height:3em;
+  /*width: 30%;*/
+  height: auto;
+  text-align: justify;
+  letter-spacing: 0.15em;
+  width: 100%;
+  flex-grow: 1;
+     
+ }
