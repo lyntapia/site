@@ -142,6 +142,7 @@
 .peces{
    background-image: url("camionpeces.jpg"); 
    background-color:rgba(242, 135, 5, 0.5);
+    padding:30px;
 }
 .boxdet2{
   border: 1px solid #734002;
@@ -150,7 +151,7 @@
   /*margin: 30px 60px;*/
   line-height:3em;
   /*width: 30%;*/
-  height: auto;
+  height: 300px;
   text-align: justify;
   letter-spacing: 0.15em;
   width: 100%;
