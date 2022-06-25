@@ -92,8 +92,9 @@
   height: auto;
   text-align: justify;
   letter-spacing: 0.15em;
-  width: 500px;
+  width: 400px;
      flex-grow: 1;
+     margin:20px:
  }
  .boxdet span{
    color:#F2F2F2;
